@@ -1,0 +1,21 @@
+Parcel ID,Sender Name,Recipient Name,Parcel Weight (kg),Shipment Date,Expected Delivery Date,Current Status,Carrier,Delivery Notes,Insurance Value,Payment Status,Shipping Cost
+100001,ABC Corp,John Doe,2.5,2024-11-01,2024-11-03,Out for Delivery,FedEx,Leave at front door,150.0,Paid,20.0
+100002,XYZ Ltd,Jane Smith,1.2,2024-11-02,2024-11-04,In Transit,UPS,Signature required,200.0,COD,15.0
+100003,Global Ex,Michael Tan,3.0,2024-11-03,2024-11-05,Delivered,DHL,None,300.0,Paid,25.0
+100004,Omega Tech,Lisa Wong,0.8,2024-11-01,2024-11-03,Out for Delivery,USPS,Deliver to reception,100.0,Paid,10.0
+100005,Delta Inc,Robert King,5.0,2024-11-01,2024-11-05,In Transit,FedEx,"Fragile, handle with care",500.0,Paid,50.0
+100006,FastShip,Maria Perez,1.5,2024-11-02,2024-11-04,Awaiting Dispatch,DHL,None,250.0,Paid,18.0
+100007,QuickEx,Thomas Lee,3.2,2024-11-03,2024-11-06,In Transit,UPS,None,350.0,Pending,22.0
+100008,Speedy Co,Emily Davis,4.8,2024-11-01,2024-11-04,Delivered,DHL,Leave at side gate,400.0,Paid,30.0
+100009,Alpha Shp,Kevin Brown,2.0,2024-11-02,2024-11-04,Out for Delivery,USPS,Call upon arrival,180.0,COD,12.0
+100010,JetLog,Sarah Miller,6.5,2024-11-03,2024-11-07,In Transit,FedEx,None,600.0,Paid,55.0
+100011,Prime Ship,Mark Lee,2.7,2024-11-01,2024-11-05,Awaiting Dispatch,DHL,Fragile,220.0,Pending,20.0
+100012,Express Co,Hannah White,1.1,2024-11-02,2024-11-04,Out for Delivery,FedEx,None,150.0,Paid,12.0
+100013,GoFast Ltd,Daniel Scott,4.3,2024-11-03,2024-11-06,In Transit,UPS,Deliver to neighbor,300.0,COD,28.0
+100014,RocketEx,Laura Green,1.9,2024-11-02,2024-11-05,Delivered,DHL,None,200.0,Paid,14.0
+100015,NextGen Shp,Justin Reed,3.5,2024-11-01,2024-11-05,In Transit,USPS,Call upon delivery,350.0,Paid,25.0
+100016,TurboShip,Linda Adams,0.9,2024-11-03,2024-11-06,In Transit,FedEx,None,120.0,COD,10.0
+100017,AceLogistics,Brian Thompson,5.7,2024-11-01,2024-11-06,Awaiting Dispatch,DHL,Fragile,550.0,Paid,45.0
+100018,SafeShip,Kimberly Hall,2.3,2024-11-02,2024-11-04,Out for Delivery,UPS,None,180.0,COD,15.0
+100019,FastFreight,William Clark,4.1,2024-11-03,2024-11-07,In Transit,DHL,Signature required,390.0,Paid,32.0
+100020,RapidShip,Angela Nelson,3.8,2024-11-01,2024-11-04,Delivered,FedEx,None,340.0,Paid,27.0
