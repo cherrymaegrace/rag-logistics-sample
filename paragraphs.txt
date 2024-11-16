@@ -1,0 +1,40 @@
+"Parcel ID 100001 was shipped by ABC Corp to John Doe on 2024-11-01, weighing 2.5 kg. The expected delivery date is 2024-11-03, and the current status of the parcel is 'Out for Delivery' with the carrier being FedEx. Delivery notes indicate: 'Leave at front door'. The parcel is insured for a value of $150.0 and the payment status is 'Paid'. The shipping cost for this parcel was $20.0."
+
+"Parcel ID 100002 was shipped by XYZ Ltd to Jane Smith on 2024-11-02, weighing 1.2 kg. The expected delivery date is 2024-11-04, and the current status of the parcel is 'In Transit' with the carrier being UPS. Delivery notes indicate: 'Signature required'. The parcel is insured for a value of $200.0 and the payment status is 'COD'. The shipping cost for this parcel was $15.0."
+
+"Parcel ID 100003 was shipped by Global Ex to Michael Tan on 2024-11-03, weighing 3.0 kg. The expected delivery date is 2024-11-05, and the current status of the parcel is 'Delivered' with the carrier being DHL. Delivery notes indicate: 'N/A'. The parcel is insured for a value of $300.0 and the payment status is 'Paid'. The shipping cost for this parcel was $25.0."
+
+"Parcel ID 100004 was shipped by Omega Tech to Lisa Wong on 2024-11-01, weighing 0.8 kg. The expected delivery date is 2024-11-03, and the current status of the parcel is 'Out for Delivery' with the carrier being USPS. Delivery notes indicate: 'Deliver to reception'. The parcel is insured for a value of $100.0 and the payment status is 'Paid'. The shipping cost for this parcel was $10.0."
+
+"Parcel ID 100005 was shipped by Delta Inc to Robert King on 2024-11-01, weighing 5.0 kg. The expected delivery date is 2024-11-05, and the current status of the parcel is 'In Transit' with the carrier being FedEx. Delivery notes indicate: 'Fragile, handle with care'. The parcel is insured for a value of $500.0 and the payment status is 'Paid'. The shipping cost for this parcel was $50.0."
+
+"Parcel ID 100006 was shipped by FastShip to Maria Perez on 2024-11-02, weighing 1.5 kg. The expected delivery date is 2024-11-04, and the current status of the parcel is 'Awaiting Dispatch' with the carrier being DHL. Delivery notes indicate: 'N/A'. The parcel is insured for a value of $250.0 and the payment status is 'Paid'. The shipping cost for this parcel was $18.0."
+
+"Parcel ID 100007 was shipped by QuickEx to Thomas Lee on 2024-11-03, weighing 3.2 kg. The expected delivery date is 2024-11-06, and the current status of the parcel is 'In Transit' with the carrier being UPS. Delivery notes indicate: 'N/A'. The parcel is insured for a value of $350.0 and the payment status is 'Pending'. The shipping cost for this parcel was $22.0."
+
+"Parcel ID 100008 was shipped by Speedy Co to Emily Davis on 2024-11-01, weighing 4.8 kg. The expected delivery date is 2024-11-04, and the current status of the parcel is 'Delivered' with the carrier being DHL. Delivery notes indicate: 'Leave at side gate'. The parcel is insured for a value of $400.0 and the payment status is 'Paid'. The shipping cost for this parcel was $30.0."
+
+"Parcel ID 100009 was shipped by Alpha Shp to Kevin Brown on 2024-11-02, weighing 2.0 kg. The expected delivery date is 2024-11-04, and the current status of the parcel is 'Out for Delivery' with the carrier being USPS. Delivery notes indicate: 'Call upon arrival'. The parcel is insured for a value of $180.0 and the payment status is 'COD'. The shipping cost for this parcel was $12.0."
+
+"Parcel ID 100010 was shipped by JetLog to Sarah Miller on 2024-11-03, weighing 6.5 kg. The expected delivery date is 2024-11-07, and the current status of the parcel is 'In Transit' with the carrier being FedEx. Delivery notes indicate: 'N/A'. The parcel is insured for a value of $600.0 and the payment status is 'Paid'. The shipping cost for this parcel was $55.0."
+
+"Parcel ID 100011 was shipped by Prime Ship to Mark Lee on 2024-11-01, weighing 2.7 kg. The expected delivery date is 2024-11-05, and the current status of the parcel is 'Awaiting Dispatch' with the carrier being DHL. Delivery notes indicate: 'Fragile'. The parcel is insured for a value of $220.0 and the payment status is 'Pending'. The shipping cost for this parcel was $20.0."
+
+"Parcel ID 100012 was shipped by Express Co to Hannah White on 2024-11-02, weighing 1.1 kg. The expected delivery date is 2024-11-04, and the current status of the parcel is 'Out for Delivery' with the carrier being FedEx. Delivery notes indicate: 'N/A'. The parcel is insured for a value of $150.0 and the payment status is 'Paid'. The shipping cost for this parcel was $12.0."
+
+"Parcel ID 100013 was shipped by GoFast Ltd to Daniel Scott on 2024-11-03, weighing 4.3 kg. The expected delivery date is 2024-11-06, and the current status of the parcel is 'In Transit' with the carrier being UPS. Delivery notes indicate: 'Deliver to neighbor'. The parcel is insured for a value of $300.0 and the payment status is 'COD'. The shipping cost for this parcel was $28.0."
+
+"Parcel ID 100014 was shipped by RocketEx to Laura Green on 2024-11-02, weighing 1.9 kg. The expected delivery date is 2024-11-05, and the current status of the parcel is 'Delivered' with the carrier being DHL. Delivery notes indicate: 'N/A'. The parcel is insured for a value of $200.0 and the payment status is 'Paid'. The shipping cost for this parcel was $14.0."
+
+"Parcel ID 100015 was shipped by NextGen Shp to Justin Reed on 2024-11-01, weighing 3.5 kg. The expected delivery date is 2024-11-05, and the current status of the parcel is 'In Transit' with the carrier being USPS. Delivery notes indicate: 'Call upon delivery'. The parcel is insured for a value of $350.0 and the payment status is 'Paid'. The shipping cost for this parcel was $25.0."
+
+"Parcel ID 100016 was shipped by TurboShip to Linda Adams on 2024-11-03, weighing 0.9 kg. The expected delivery date is 2024-11-06, and the current status of the parcel is 'In Transit' with the carrier being FedEx. Delivery notes indicate: 'N/A'. The parcel is insured for a value of $120.0 and the payment status is 'COD'. The shipping cost for this parcel was $10.0."
+
+"Parcel ID 100017 was shipped by AceLogistics to Brian Thompson on 2024-11-01, weighing 5.7 kg. The expected delivery date is 2024-11-06, and the current status of the parcel is 'Awaiting Dispatch' with the carrier being DHL. Delivery notes indicate: 'Fragile'. The parcel is insured for a value of $550.0 and the payment status is 'Paid'. The shipping cost for this parcel was $45.0."
+
+"Parcel ID 100018 was shipped by SafeShip to Kimberly Hall on 2024-11-02, weighing 2.3 kg. The expected delivery date is 2024-11-04, and the current status of the parcel is 'Out for Delivery' with the carrier being UPS. Delivery notes indicate: 'N/A'. The parcel is insured for a value of $180.0 and the payment status is 'COD'. The shipping cost for this parcel was $15.0."
+
+"Parcel ID 100019 was shipped by FastFreight to William Clark on 2024-11-03, weighing 4.1 kg. The expected delivery date is 2024-11-07, and the current status of the parcel is 'In Transit' with the carrier being DHL. Delivery notes indicate: 'Signature required'. The parcel is insured for a value of $390.0 and the payment status is 'Paid'. The shipping cost for this parcel was $32.0."
+
+"Parcel ID 100020 was shipped by RapidShip to Angela Nelson on 2024-11-01, weighing 3.8 kg. The expected delivery date is 2024-11-04, and the current status of the parcel is 'Delivered' with the carrier being FedEx. Delivery notes indicate: 'N/A'. The parcel is insured for a value of $340.0 and the payment status is 'Paid'. The shipping cost for this parcel was $27.0."
+
